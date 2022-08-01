@@ -1,0 +1,1 @@
+<div class="flex justify-between max-w-xs font-semibold {{ $class }}"><span>{{ $symbol }}</span><span>{{ $value }}</span>
